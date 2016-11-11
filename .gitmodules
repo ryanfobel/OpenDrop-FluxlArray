@@ -1,0 +1,9 @@
+[submodule "KiCadLibrary/WheelerLab"]
+	path = KiCadLibrary/WheelerLab
+	url = https://github.com/wheeler-microfluidics/kicad___wheelerlab_library.git
+[submodule "library/GaudiLabs"]
+	path = library/GaudiLabs
+	url = https://github.com/ryanfobel/GaudiLabsPartsLibrary.git
+[submodule "library/WheelerLab"]
+	path = library/WheelerLab
+	url = https://github.com/wheeler-microfluidics/kicad___wheelerlab_library.git

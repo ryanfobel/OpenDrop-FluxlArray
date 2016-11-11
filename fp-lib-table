@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name WheelerLab)(type KiCad)(uri "$(KIPRJMOD)\\library\\WheelerLab\\WheelerLab.pretty")(options "")(descr ""))
+  (lib (name GaudiLabsFootPrints)(type KiCad)(uri "$(KIPRJMOD)\\library\\GaudiLabs\\GaudiLabsFootPrints.pretty")(options "")(descr ""))
+  (lib (name GaudiLabsLogos)(type KiCad)(uri "$(KIPRJMOD)\\library\\GaudiLabs\\GaudiLabsLogos.pretty")(options "")(descr ""))
+)
